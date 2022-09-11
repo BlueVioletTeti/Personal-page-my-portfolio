@@ -73,12 +73,16 @@ p {
 }
 
 footer {
-  display: flex;
-  justify-content: center;
+  text-align: center;
   font-size: 16px;
   text-decoration: none;
   padding: 20px;
   background-color: #f9f7fe;
+}
+
+.github-code {
+  padding-top: 10px;
+  opacity: 70%;
 }
 .contact-link {
   color: #000000;
