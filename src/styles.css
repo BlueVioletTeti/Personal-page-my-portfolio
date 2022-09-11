@@ -41,6 +41,20 @@ p {
 .project-place {
   margin-bottom: 40px;
 }
+
+#contact {
+  text-align: center;
+  padding: 20px;
+  display: block;
+  margin: 0 auto;
+}
+.my-brand {
+  font-weight: 900;
+  border-style: solid;
+  border-width: 2px;
+  opacity: 90%;
+  padding: 3px;
+}
 @media (max-width: 576px) {
   img {
     display: none;
